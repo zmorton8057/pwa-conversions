@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zmorton8057/pwa-conversions.git/static/css/main.680726dc.chunk.css",
+    "main.js": "/zmorton8057/pwa-conversions.git/static/js/main.103d9704.chunk.js",
+    "main.js.map": "/zmorton8057/pwa-conversions.git/static/js/main.103d9704.chunk.js.map",
+    "runtime-main.js": "/zmorton8057/pwa-conversions.git/static/js/runtime-main.4fc0a3a0.js",
+    "runtime-main.js.map": "/zmorton8057/pwa-conversions.git/static/js/runtime-main.4fc0a3a0.js.map",
+    "static/js/2.f727b364.chunk.js": "/zmorton8057/pwa-conversions.git/static/js/2.f727b364.chunk.js",
+    "static/js/2.f727b364.chunk.js.map": "/zmorton8057/pwa-conversions.git/static/js/2.f727b364.chunk.js.map",
+    "index.html": "/zmorton8057/pwa-conversions.git/index.html",
+    "precache-manifest.d5d96f847793d4b751828878ed0df56a.js": "/zmorton8057/pwa-conversions.git/precache-manifest.d5d96f847793d4b751828878ed0df56a.js",
+    "service-worker.js": "/zmorton8057/pwa-conversions.git/service-worker.js",
+    "static/css/main.680726dc.chunk.css.map": "/zmorton8057/pwa-conversions.git/static/css/main.680726dc.chunk.css.map",
+    "static/js/2.f727b364.chunk.js.LICENSE": "/zmorton8057/pwa-conversions.git/static/js/2.f727b364.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fc0a3a0.js",
+    "static/js/2.f727b364.chunk.js",
+    "static/css/main.680726dc.chunk.css",
+    "static/js/main.103d9704.chunk.js"
+  ]
+}
