@@ -1,3 +1,4 @@
+/* eslint-disable no-restricted-globals */
 // Flag for enabling cache in production
 
 var doCache = false;
@@ -83,6 +84,7 @@ self.addEventListener('install', function (event) {
 
 // Here we intercept request and serve up the matching files
 
+// eslint-disable-next-line no-restricted-globals
 self.addEventListener('fetch', function (event) {
 
     if (doCache) {

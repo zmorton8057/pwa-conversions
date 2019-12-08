@@ -10,11 +10,59 @@
 
   <meta name="theme-color" content="#000000">
 
+  <!-- Tell the browser it's a PWA -->
+
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <!-- Tell iOS it's a PWA -->
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
 
   <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
 
   <title>React App</title>
+
+  <style type="text/css">
+    body {
+
+      margin: 0;
+
+      padding: 0;
+
+      font-family: sans-serif;
+
+    }
+
+    .navbar {
+
+      background-color: #01C8E5;
+
+      text-align: center;
+
+    }
+
+    .navbar a {
+
+      display: inline-block;
+
+      padding: 10px;
+
+      color: #fff;
+
+      text-decoration: none;
+
+    }
+
+    .page-info {
+
+      text-align: center;
+
+      font-weight: bold;
+
+    }
+  </style>
 
 </head>
 
@@ -26,7 +74,21 @@
 
   </noscript>
 
-  <div id="root"></div>
+  <div id="root">
+
+    <div class="navbar">
+
+      <a href="/">Feed</a>
+
+    </div>
+
+    <p class="page-info">
+
+      Loading an awesome app...
+
+    </p>
+
+  </div>
 
   <script>
 
